@@ -9,7 +9,7 @@ Model:[SEN21723P](https://www.seeedstudio.com/item_detail.html?p_id=764)
 !!!note
 Note that The sensor value only reflects the approximated trend of gas concentration in a permissible error range, it DOES NOT represent the exact gas concentration. The detection of certain components in the air usually requires a more precise and costly instrument, which cannot be done with a single gas sensor. If your project is aimed at obtaining the gas concentration at a very precise level, then we do not recommend this gas sensor.
 
-[![](https://raw.githubusercontent.com/SeeedDocument/Grove_Dust_Sensor/master/image/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=1050)
+[![](https://raw.githubusercontent.com/SeeedDocument/Grove_Dust_Sensor/master/image/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=764)
 ## Features
 - Input Voltage: 5V
 - Working Current: 120mA
